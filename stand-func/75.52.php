@@ -1,3 +1,3 @@
 <?php
-    echo strchr('ab-cd-ef', '-')    
+    echo strchr('ab-cd-ef', '-');
 ?>
