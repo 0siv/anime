@@ -6,6 +6,6 @@
 			$arr[$i][$j] = $j + 1; 
 		}
 	}
-
+ 
 	var_dump($arr);
 ?>
