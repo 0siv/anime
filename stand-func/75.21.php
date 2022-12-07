@@ -1,3 +1,3 @@
 <?php
-    echo strpos('abc abc abc', 'b')
+    echo strpos('abc abc abc', 'b');
 ?>
